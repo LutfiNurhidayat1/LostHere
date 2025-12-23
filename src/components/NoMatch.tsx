@@ -1,5 +1,5 @@
 import { Clock, Bell } from 'lucide-react';
-import { Button } from './ui/Button';
+import { Button } from './ui/button';
 
 interface NoMatchProps {
   onBackHome: () => void;

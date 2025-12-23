@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { ArrowLeft, Upload, X } from 'lucide-react';
-import { Button } from './ui/Button';
+import { Button } from './ui/button';
 import { FormField } from './ui/FormField';
 import { Select } from './ui/Select';
 

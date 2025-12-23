@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { ArrowLeft, Database, Trash2, Download, AlertTriangle } from 'lucide-react';
-import { Button } from './ui/Button';
+import { Button } from './ui/button';
 
 interface StorageManagementScreenProps {
   onBack: () => void;

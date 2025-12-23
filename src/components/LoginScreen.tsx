@@ -1,6 +1,6 @@
 import { Search } from 'lucide-react';
 import { GoogleLoginButton } from './GoogleLoginButton';
-import { Button } from './ui/Button';
+import { Button } from './ui/button';
 
 interface LoginScreenProps {
   onLoginWithGoogle: (userData: any) => void;

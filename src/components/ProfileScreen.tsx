@@ -1,5 +1,5 @@
 import { User, FileText, Bell, LogOut, ChevronRight, Edit, Database } from 'lucide-react';
-import { Button } from './ui/Button';
+import { Button } from './ui/button';
 
 interface UserProfile {
   name: string;

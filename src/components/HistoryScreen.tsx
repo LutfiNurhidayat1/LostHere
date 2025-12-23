@@ -1,5 +1,5 @@
 import { ArrowLeft } from 'lucide-react';
-import { Card } from './ui/Card';
+import { Card } from './ui/card';
 import type { Report } from '../App';
 
 interface HistoryScreenProps {
